@@ -1,0 +1,1 @@
+This project shows the real time Weather update in every city by using API from openweathermap.org website.
